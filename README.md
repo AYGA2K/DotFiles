@@ -10,13 +10,13 @@ Here are some of the configurations included in these dotfiles:
 
 - ⌨️ Alacritty
 
-- 📝 Neovim
+- 📝 Neovim (modified)
 
-- 📊 Polybar
+- 📊 Polybar (modified)
 
 - 🚀 Rofi
 
-- 💡 Picom
+- 💡 Picom (modified)
 
    The BSPWM configurations in this repository are based on the files from [ArchCraft](https://github.com/archcraft-os/archcraft-bspwm/tree/main/files) with some modifications made by me.
 
