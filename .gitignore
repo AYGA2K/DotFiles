@@ -50,3 +50,15 @@ user-dirs.dirs
 *.conf
 
 mimeapps.list
+
+capacitor/
+
+configstore/
+
+Google/
+
+Insomnia/
+
+viewnior/
+
+pavucontrol.ini
