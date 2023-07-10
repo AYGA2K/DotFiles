@@ -47,8 +47,6 @@ user-dirs.locale
 
 user-dirs.dirs
 
-*.conf
-
 mimeapps.list
 
 capacitor/
@@ -62,3 +60,11 @@ Insomnia/
 viewnior/
 
 pavucontrol.ini
+
+picom-ibhagwan.conf
+
+picom-jonaburg.conf
+
+picom-original.conf
+
+picom.conf
