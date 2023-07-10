@@ -5,31 +5,31 @@
 # ------------------------------------------------------------------------------
 
 # Colors
-background='#222d32'
-foreground='#c4c7c5'
-color0='#263640'
-color1='#ec7875'
-color2='#61c766'
-color3='#fdd835'
-color4='#42a5f5'
-color5='#ba68c8'
-color6='#4dd0e1'
-color7='#bfbaac'
-color8='#4a697d'
-color9='#fb8784'
-color10='#70d675'
-color11='#ffe744'
-color12='#51b4ff'
-color13='#c979d7'
-color14='#5cdff0'
-color15='#fdf6e3'
+background='#1E2128'
+foreground='#ABB2BF'
+color0='#32363D'
+color1='#E06B74'
+color2='#98C379'
+color3='#E5C07A'
+color4='#62AEEF'
+color5='#C778DD'
+color6='#55B6C2'
+color7='#ABB2BF'
+color8='#50545B'
+color9='#EA757E'
+color10='#A2CD83'
+color11='#EFCA84'
+color12='#6CB8F9'
+color13='#D282E7'
+color14='#5FC0CC'
+color15='#B5BCC9'
 
-accent='#00BCD4'
-light_value='0.15'
+accent='#5294E2'
+light_value='0.05'
 dark_value='0.30'
 
 # Wallpaper
-wdir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" &> /dev/null && pwd )"
+wdir="$(cd "$(dirname "${BASH_SOURCE[0]}")" &>/dev/null && pwd)"
 wallpaper="$wdir/wallpaper"
 
 # Polybar
