@@ -8,4 +8,9 @@ opt.cursorline = false
 opt.autowrite = false
 opt.number = true
 opt.relativenumber = true
-opt.wrap = false
+opt.wrap = true
+-- Set the desired text width
+opt.textwidth = 70
+
+-- Enable breaking lines at word boundaries
+opt.linebreak = true
