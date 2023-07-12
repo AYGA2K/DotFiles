@@ -1,10 +1,18 @@
 live_config_reload: true
 
+shell:
+  program: /bin/zsh
+  args:
+    - -l
+    - -c
+    - "tmux attach || tmux"
+
+
 window:
   opacity: 1
   padding:
-    x: 10
-    y: 10
+    x: 0
+    y: 0
   #dynamic_padding: false
 #decorations: buttonless
 font:
