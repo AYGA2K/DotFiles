@@ -85,7 +85,7 @@ for i in ${files[@]}; do
 done
 
 ## 4 > code (always open editors on workspace-4)
-declare -a code=(Geany code-oss)
+declare -a code=(Geany Code code-oss)
 for i in ${code[@]}; do
 	bspc rule -a $i desktop='^4' follow=on focus=on
 done

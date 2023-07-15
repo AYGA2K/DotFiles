@@ -22,7 +22,6 @@ font:
     #style: bold
   size: 15
   #use_thin_strokes: true
-  #use_thin_strokes: true
 colors:
   # Default colors
   primary:
@@ -51,5 +50,6 @@ colors:
     cyan: '#95E6CB'
     white: '#FFFFFF'
 theme: Ayu-Mirage
+
 mouse:
   hide_when_typing: true

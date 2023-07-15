@@ -72,3 +72,65 @@ picom-original.conf
 picom.conf
 
 Android Open Source Project/
+
+Code/Cache/
+
+Code/CachedData/
+
+Code/CachedExtensionVSIXs/
+
+Code/CachedProfilesData/
+
+Code/Code Cache/
+
+Code/Crashpad/
+
+Code/databases/
+
+Code/DawnCache/
+
+Code/Dictionaries/
+
+Code/GPUCache/
+
+Code/Local Storage/
+
+Code/logs/
+
+Code/Service Worker/
+
+Code/Session Storage/
+
+Code/WebStorage/
+
+*.lock
+
+Code/Cookies
+
+Code/Cookies-journal
+
+discord/
+
+dbgate/
+
+create-next-app-nodejs/
+
+nextjs-nodejs/
+
+Code/TransportSecurity
+
+Code/Preferences
+
+Code/Network Persistent State
+
+Code/languagepacks.json
+
+Code/machineid
+
+Code/User/globalStorage/
+
+Code/User/History/
+
+Code/User/sync/
+
+Code/User/workspaceStorage/

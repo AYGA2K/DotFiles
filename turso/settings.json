@@ -1,0 +1,16 @@
+{
+  "cache": {
+    "token_valid": {
+      "eyjhbgcioijiuzi1niisinr5cci6ikpxvcj9_eyjlehaioje2odk4nju2otysimlhdci6mty4oti2mdg5niwiawqiojiwodb9_u1cs_dyoaxoemr-s5pgjw03wfey2g0zkzkugow22g4u": {
+        "expiration": 1689865696,
+        "data": true
+      }
+    }
+  },
+  "config-path": "",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2ODk4NjU2OTYsImlhdCI6MTY4OTI2MDg5NiwiaWQiOjIwODB9.U1cS_dYoaxoEmR-S5pgJW03WFey2G0zKzkUgOW22g4U",
+  "usedcommands": {
+    "auth_login": true
+  },
+  "username": "AYGA2K"
+}
